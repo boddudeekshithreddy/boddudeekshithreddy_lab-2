@@ -1,0 +1,19 @@
+$kind: http-request
+name: https://boddudeekshithreddy-lab-2-1.onrender.com/books/13/
+description: ""
+url: https://boddudeekshithreddy-lab-2-1.onrender.com/books/13/
+method: GET
+body:
+  type: json
+  content: "{\r
+
+    \  \"title\": \"Advanced Node.js\",\r
+
+    \  \"author\": \"David Smith\",\r
+
+    \  \"price\": 650,\r
+
+    \  \"pages\": 400\r
+
+    }"
+order: 1000
